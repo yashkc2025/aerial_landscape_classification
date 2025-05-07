@@ -33,6 +33,9 @@ The Skyview dataset includes 15 landscape categories with 800 images per categor
 
 Each image has a resolution of 256×256 pixels and was sourced from the AID and NWPU-Resisc45 datasets.
 
+![image](https://github.com/user-attachments/assets/3b92181c-2eba-4a0a-b205-3622e0cb604b)
+
+
 ## 📈 Performance Metrics
 
 | Metric | Value |
